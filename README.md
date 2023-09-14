@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexpaulsito
+- 👀 I’m trying to learn how to code properly.
+- 🌱 I’m currently studying Software Engineering at UPM in Madrid, Spain.
+- 📫 You can reach me through my Twitter, @AlexPaulsito.
